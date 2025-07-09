@@ -1,5 +1,3 @@
-# Outlook-Mail-Deepseek-Classify
-
 
 # Outlook邮件自动分类工具 - 使用文档
 
